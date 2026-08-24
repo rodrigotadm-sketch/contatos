@@ -75,13 +75,7 @@
     "reference": "Centro Politécnico",
     "postal_box": "Caixa Postal 19031"
   },
-  "transport": [
-    "Inter II",
-    "Interbairros II",
-    "Interbairros V",
-    "Ligeirinho Centro Politécnico"
-  ],
-  "useful_links": [
+    "useful_links": [
     {
       "label": "Formulários e Instruções",
       "url": "https://bio.ufpr.br/biomedicina/formularios/",
