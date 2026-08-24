@@ -50,7 +50,7 @@
       "Assunto do atendimento",
       "Breve descrição da demanda"
     ],
-    "notice": "Enquanto a agenda não estiver ativada, utilize biomedicina@ufpr.br para solicitar atendimento."
+    "notice": "Enquanto a agenda não estiver ativada, utilize marconi@ufpr.br para solicitar atendimento."
   },
   "before_booking": [
     {
