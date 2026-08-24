@@ -1,0 +1,107 @@
+{
+  "title": "CONTATO — BIOMEDICINA UFPR",
+  "subtitle": "Coordenação, atendimento e agendamento",
+  "intro": "Esta página reúne os canais oficiais de atendimento do Curso de Biomedicina. Solicitações administrativas simples devem ser encaminhadas preferencialmente à Secretaria; assuntos que necessitem reunião poderão utilizar o agendamento com a Coordenação quando a agenda estiver ativada.",
+  "coordination": {
+    "coordinator": {
+      "role": "Coordenadora",
+      "name": "Profa. Dra. Camila Marcon",
+      "email": "",
+      "department": "Departamento de Patologia Básica"
+    },
+    "vice": {
+      "role": "Vice-Coordenadora",
+      "name": "Profa. Dra. Jaqueline Carvalho de Oliveira",
+      "email": "",
+      "department": "Departamento de Genética"
+    },
+    "secretary": {
+      "role": "Secretaria do Curso",
+      "name": "Rodrigo Luiz de Paula Honorato",
+      "position": "Assistente em Administração"
+    }
+  },
+  "service": {
+    "in_person": {
+      "title": "Atendimento presencial",
+      "days": "Terças-feiras e quartas-feiras",
+      "hours": "8:30–12:30 | 15:30–17:30"
+    },
+    "remote": {
+      "title": "Atendimento remoto — demais dias",
+      "email": "biomedicina@ufpr.br",
+      "teams": "rodrigo.honorato@ufpr.br",
+      "whatsapp": "(41) 99526-4656"
+    },
+    "phone": "(41) 3361-1744",
+    "general_email": "biomedicina@ufpr.br"
+  },
+  "appointment": {
+    "active": false,
+    "title": "Agende um atendimento com a Coordenadora",
+    "description": "A agenda eletrônica será disponibilizada aqui após a criação do horário de atendimento no Google Agenda institucional. O sistema deverá mostrar somente horários disponíveis, sem expor compromissos particulares da agenda.",
+    "booking_url": "",
+    "embed_url": "",
+    "duration": "20 minutos",
+    "fields": [
+      "Nome completo",
+      "E-mail",
+      "GRR / matrícula, quando aplicável",
+      "Assunto do atendimento",
+      "Breve descrição da demanda"
+    ],
+    "notice": "Enquanto a agenda não estiver ativada, utilize biomedicina@ufpr.br para solicitar atendimento."
+  },
+  "before_booking": [
+    {
+      "title": "Assunto administrativo simples",
+      "text": "Envie a solicitação diretamente para biomedicina@ufpr.br. Isso pode evitar a necessidade de reunião."
+    },
+    {
+      "title": "Assunto acadêmico individual",
+      "text": "Quando a demanda exigir conversa com a Coordenação, utilize a agenda assim que ela estiver disponível."
+    },
+    {
+      "title": "Formulários e procedimentos",
+      "text": "Antes de solicitar reunião, consulte a Central de Formulários e as páginas de procedimentos do curso."
+    }
+  ],
+  "address": {
+    "institution": "Universidade Federal do Paraná — Setor de Ciências Biológicas",
+    "street": "Avenida Coronel Francisco H. dos Santos, 100",
+    "neighborhood": "Jardim das Américas",
+    "city": "Curitiba — PR",
+    "cep": "81531-980",
+    "reference": "Centro Politécnico",
+    "postal_box": "Caixa Postal 19031"
+  },
+  "transport": [
+    "Inter II",
+    "Interbairros II",
+    "Interbairros V",
+    "Ligeirinho Centro Politécnico"
+  ],
+  "useful_links": [
+    {
+      "label": "Formulários e Instruções",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "description": "Acesse formulários e procedimentos acadêmicos."
+    },
+    {
+      "label": "Calendário Acadêmico",
+      "url": "https://rodrigotadm-sketch.github.io/Calend-rio---UFPR/",
+      "description": "Consulte os principais marcos do calendário acadêmico."
+    },
+    {
+      "label": "Principais Datas e Prazos",
+      "url": "https://rodrigotadm-sketch.github.io/Calend-rio-Academico-UFPR/",
+      "description": "Consulte prazos detalhados de matrícula e procedimentos."
+    },
+    {
+      "label": "Grade Horária",
+      "url": "https://rodrigotadm-sketch.github.io/Grade-Hor-ria---Biomedicina/",
+      "description": "Consulte a grade horária do curso."
+    }
+  ],
+  "privacy": "Não serão exibidos compromissos privados da Coordenadora. A futura agenda mostrará apenas os horários de atendimento disponibilizados para reserva."
+}
