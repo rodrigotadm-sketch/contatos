@@ -3,12 +3,88 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Contato — Curso de Biomedicina UFPR">
-<title>Contato — Biomedicina UFPR</title>
-<link rel="stylesheet" href="styles.css">
+<title>Contato e Atendimento — Biomedicina UFPR</title>
+<link rel="stylesheet" href="style.css?v=1">
 </head>
 <body>
-<main id="app"></main>
-<script src="app.js"></script>
+<main class="wrap">
+  <header class="hero">
+    <div class="eyebrow">UNIVERSIDADE FEDERAL DO PARANÁ</div>
+    <h1 id="titulo">Contato e Atendimento</h1>
+    <p id="subtitulo">Coordenação do Curso de Biomedicina — UFPR</p>
+  </header>
+
+  <section class="booking card">
+    <div class="icon" aria-hidden="true">▣</div>
+    <div>
+      <span class="tag">ATENDIMENTO INDIVIDUAL</span>
+      <h2 id="agendaTitulo">Agendamento de atendimento com a Coordenação</h2>
+      <p id="agendaDescricao"></p>
+      <a id="agendaBtn" class="btn primary" target="_blank" rel="noopener noreferrer">Agendar atendimento</a>
+      <p class="micro">O agendamento é realizado pelo Google Agenda. A página será aberta em uma nova aba.</p>
+    </div>
+  </section>
+
+  <section class="notice">
+    <div>
+      <h2>Antes de agendar</h2>
+      <p>Solicitações administrativas, envio de documentos e dúvidas que não necessitem de atendimento individual podem ser encaminhados diretamente pelos canais institucionais. Consulte também os procedimentos acadêmicos abaixo antes de reservar um horário.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="tag">CANAIS INSTITUCIONAIS</span>
+        <h2>Contato administrativo</h2>
+      </div>
+    </div>
+    <div class="contact-grid">
+      <article class="card contact-card">
+        <span class="label">E-mail</span>
+        <a id="email" class="contact-value"></a>
+        <span class="hint">Canal recomendado para solicitações administrativas e envio de documentos.</span>
+      </article>
+      <article class="card contact-card">
+        <span class="label">Telefone</span>
+        <a id="telefone" class="contact-value"></a>
+        <span class="hint">Coordenação do Curso de Biomedicina.</span>
+      </article>
+      <article class="card contact-card">
+        <span class="label">Atendimento presencial</span>
+        <strong id="presencial" class="contact-value"></strong>
+        <span id="remoto" class="hint"></span>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div>
+        <span class="tag">ORIENTAÇÕES</span>
+        <h2>Procedimentos acadêmicos</h2>
+      </div>
+      <p>Alguns assuntos possuem orientações próprias no site do curso.</p>
+    </div>
+    <div id="links" class="links-grid"></div>
+  </section>
+
+  <section class="location card">
+    <div>
+      <span class="tag">LOCALIZAÇÃO</span>
+      <h2>Coordenação do Curso de Biomedicina</h2>
+      <p id="endereco"></p>
+      <p id="complemento"></p>
+      <p><span id="bairroCidade"></span><br>CEP <span id="cep"></span></p>
+    </div>
+    <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&query=Setor+de+Ci%C3%AAncias+Biol%C3%B3gicas+UFPR+Centro+Polit%C3%A9cnico+Curitiba" target="_blank" rel="noopener noreferrer">Ver localização no mapa</a>
+  </section>
+
+  <footer>
+    <strong>Coordenação do Curso de Biomedicina — UFPR</strong>
+    <span>Informações sujeitas a atualização institucional.</span>
+  </footer>
+</main>
+<script src="app.js?v=1"></script>
 </body>
 </html>

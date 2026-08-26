@@ -1,0 +1,8 @@
+<iframe
+  src="URL-DA-PAGINA-GITHUB-PAGES/"
+  width="100%"
+  height="1450"
+  style="border:0; width:100%; min-height:1450px;"
+  loading="lazy"
+  title="Contato e Atendimento — Coordenação do Curso de Biomedicina — UFPR">
+</iframe>

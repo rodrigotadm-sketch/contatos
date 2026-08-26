@@ -1,23 +1,19 @@
-CONTATO — BIOMEDICINA UFPR
+CONTATO BIOMEDICINA UFPR — V1
 
-Arquivos:
-- index.html
-- styles.css
-- app.js
-- contato.json
+Arquivos em pasta única.
+Edite config.json para atualizar agenda, telefone, e-mail, endereço, horário e links.
+Depois publique todos os arquivos diretamente na raiz do repositório GitHub Pages.
 
-A página foi criada sem qualquer tabela de disciplinas.
+Estrutura:
+Contato e Atendimento
+→ Agendamento
+→ Antes de agendar
+→ Contato administrativo
+→ Procedimentos acadêmicos
+→ Localização
 
-AGENDA
-Para ativar o agendamento, edite contato.json:
-
-"appointment": {
-  "active": true,
-  "booking_url": "COLE_AQUI_O_LINK_DE_AGENDAMENTO",
-  "embed_url": ""
-}
-
-Se o Google fornecer uma URL própria de incorporação, coloque-a em "embed_url".
-Se fornecer apenas a página pública de reserva, use "booking_url".
-
-Não inclua senha, token, credencial ou dados privados da conta Google no GitHub.
+Fontes institucionais consultadas em 26/08/2026:
+- página Contato da Biomedicina/UFPR;
+- página A Coordenação da Biomedicina/UFPR.
+Observação: as páginas institucionais apresentam informações divergentes de gestão/horário;
+por isso a V1 evita exibir nomes de coordenadores e mantém o horário facilmente editável no config.json.

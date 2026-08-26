@@ -1,0 +1,44 @@
+{
+  "versao": "1.0",
+  "ultimaAtualizacao": "2026-08-26",
+  "titulo": "Contato e Atendimento",
+  "subtitulo": "Coordenação do Curso de Biomedicina — UFPR",
+  "agendamento": {
+    "titulo": "Agendamento de atendimento com a Coordenação",
+    "descricao": "Para assuntos que necessitem de atendimento individual, consulte os horários disponíveis e realize previamente o agendamento.",
+    "url": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ1I8YwJOhQuRBSiEH7SHkG4HVEU1wjzpgammCvB7VaoKQG1G7fx4j-vMzRkKOU_viSxxmVjEd25",
+    "botao": "Agendar atendimento"
+  },
+  "contato": {
+    "email": "biomedicina@ufpr.br",
+    "telefone": "+55 (41) 3361-1744",
+    "telefoneLink": "+554133611744",
+    "endereco": "Avenida Coronel Francisco H. dos Santos, nº 100",
+    "complemento": "Setor de Ciências Biológicas — Centro Politécnico",
+    "bairroCidade": "Jardim das Américas — Curitiba/PR",
+    "cep": "81531-980"
+  },
+  "atendimento": {
+    "presencial": "Quartas-feiras: 8h30–12h30 e 15h30–17h30",
+    "remoto": "Demais dias: e-mail institucional",
+    "observacao": "Os horários podem ser atualizados pela Coordenação."
+  },
+  "links": [
+    {
+      "titulo": "Estágios",
+      "url": "https://bio.ufpr.br/biomedicina/estagios/"
+    },
+    {
+      "titulo": "Atividades Formativas",
+      "url": "https://bio.ufpr.br/biomedicina/atividades-formativas/"
+    },
+    {
+      "titulo": "Trabalho de Conclusão de Curso",
+      "url": "https://bio.ufpr.br/biomedicina/trabalho-de-conclusao/"
+    },
+    {
+      "titulo": "Formulários e Instruções",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/"
+    }
+  ]
+}
