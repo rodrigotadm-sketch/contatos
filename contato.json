@@ -23,7 +23,7 @@
   },
   "service": {
     "in_person": {
-      "title": "Atendimento presencial",
+      "title": "Atendimento presencial da Secretaria",
       "days": "Terças-feiras e quartas-feiras",
       "hours": "8:30–12:30 | 15:30–17:30"
     },
